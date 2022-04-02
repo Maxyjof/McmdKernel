@@ -1,0 +1,21 @@
+﻿
+/scoreboard objective add Test dummy 计分板
+
+Test a
+Test a = 1
+
+
+def Func()
+{
+	int a = 2;
+}
+
+class Entity : Entity
+{
+	Test=1
+
+	def Run()
+	{
+		/say Run
+	}
+}
